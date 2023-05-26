@@ -1,8 +1,7 @@
 # Keypointextractor-for-SIFT-ORB-FAST-and-AGAST
-Extract keypoints from image files with SIFT, ORB, FAST and AGAST algorithms
 
 
 
 
-
+It's using SIFT, ORB, FAST and AGAST algorithms to extract keypoints from image files
 Number of Keypoints are extracted (for each picture and algorithm) to a .csv file
